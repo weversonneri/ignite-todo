@@ -1,4 +1,4 @@
-# Desafio 01 Ignite ReactJS
+# Chapter I Desafio 01 Ignite ReactJS
 
 <p align="center">
   <img 
@@ -7,7 +7,7 @@
   />
 </p>
 
-Desafio proposto para praticar os topicos abordados no Ignite Chapter I da trilha de ReactJS.
+Desafio proposto para praticar os topicos abordados no Ignite **[@RocketSeat](https://www.rocketseat.com.br/)**, Chapter I da trilha de ReactJS.
 
 Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 
